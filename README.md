@@ -16,7 +16,7 @@ Ensure you have Terraform installed and configured with AWS credentials. Update 
 terraform init
 terraform plan
 terraform apply
-
+```
 2. Bash Script
 This Bash script identifies prime numbers within a specified range.
 
